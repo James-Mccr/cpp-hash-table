@@ -1,0 +1,8 @@
+This program is a simple implementation of a hash table.
+It is not intended for actual use but as an exercise to understand concepts.
+
+Compiled using:
+g++ (Debian 12.2.0-14) 12.2.0
+No dependenices outside of STL
+
+g++ *.cpp
